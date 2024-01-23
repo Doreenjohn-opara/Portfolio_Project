@@ -1,3 +1,4 @@
 # Data Analysis Portfolio Project
 This portfolio project contains all the projects I have worked on.
-
+## Movie Correlation Project
+In this project, I analyzed a dataset of movies to gain insights into their attributes and correlations. After performing data cleaning, including handling missing values and sorting the data by gross revenue, I conducted exploratory data analysis. By visualizing the correlation matrix, I identified relationships between movie attributes such as ratings, genres, release years, and scores. The analysis revealed interesting findings, such as a positive correlation between ratings and scores, indicating that highly rated movies tend to have higher scores. Additionally, there was a negative correlation between ratings and genres, suggesting that certain genres may be more polarizing in terms of audience reception. This project showcases my skills in data cleaning, exploratory data analysis, and correlation analysis.
